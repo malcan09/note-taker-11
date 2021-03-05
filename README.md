@@ -4,6 +4,8 @@
   <img src="public/assets/images/Frontpage.png" alt="Front Page">
 
   <img src="public/assets/images/Secondpage.png" alt="Second Page">
+   Heroku Page: https://mysterious-hollows-64279.herokuapp.com/
+   Listening in: http://localhost:3000/
   
   # Description
   This is a full stack application using html/css/nodeJS and express. The application allows you to take notes into the pagewith a tittle,be able to save it and delete it as you please.
