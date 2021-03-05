@@ -3,7 +3,7 @@
   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/undefined/note-taker-11)
   <img src="public/assets/images/Frontpage.png" alt="Front Page">
 
-  <img src="public/assets/images/Secongpage.png" alt="Second Page">
+  <img src="public/assets/images/Secondpage.png" alt="Second Page">
   
   # Description
   This is a full stack application using html/css/nodeJS and express. The application allows you to take notes into the pagewith a tittle,be able to save it and delete it as you please.
